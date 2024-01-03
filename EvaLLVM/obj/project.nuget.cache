@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lsogcA/ZcrxzrAHw5O0260N9GbsEgNdxF7e0Qbtx4reT2aOBBLibzj2RYheYbKNdqX0owIFR76XFw9n7nL7TEA==",
+  "success": true,
+  "projectFilePath": "/home/tim/projects/c-sharp/llvm-test/EvaLLVM/EvaLLVM.csproj",
+  "expectedPackageFiles": [
+    "/home/tim/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
