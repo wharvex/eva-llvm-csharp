@@ -4,6 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        var program = """hi""";
+        var vm = new EvaCompiler();
+        vm.exec(program);
     }
 }
